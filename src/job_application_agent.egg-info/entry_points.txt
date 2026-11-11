@@ -1,0 +1,2 @@
+[console_scripts]
+job-tracker = job_tracker.main:main

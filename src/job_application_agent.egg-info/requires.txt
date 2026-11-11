@@ -1,0 +1,10 @@
+pydantic<3,>=2
+python-dotenv<2,>=1
+google-api-python-client<3,>=2
+google-auth-oauthlib<2,>=1
+google-auth-httplib2<1,>=0.2
+requests<3,>=2
+
+[dev]
+pytest<10,>=8
+ruff<1,>=0.8
