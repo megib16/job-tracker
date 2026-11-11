@@ -1,0 +1,6 @@
+**
+!Dockerfile
+!pyproject.toml
+!src/
+!src/job_tracker/
+!src/job_tracker/*.py

@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*credentials*.json
+*token*.json
+*.sqlite
+*.db
+.DS_Store
+.venv-*/
+client_secret*.json
+*.egg-info/
+build/
+*.sqlite.lock
+*.sqlite-journal
